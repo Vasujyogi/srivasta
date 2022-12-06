@@ -1,0 +1,56 @@
+.bgimg{
+    background-image: url("https://res.cloudinary.com/dfmkbhcdt/image/upload/v1670234621/squid-game-4k-35_oe83ga.jpg");
+    background-size:cover;
+    height:153vh;
+    width:98.5vw;
+}
+.netflix{
+    margin:17px;
+    margin-bottom:20px;
+}
+.toprightbutton{
+    border-radius:2px;
+    height:42px;
+    width:110px;
+    background-color:#DB202C;
+    color:white;
+    border:none;
+    margin: 17px;
+}
+.toprightbutton:hover{
+    box-shadow:0 0 50px black;
+}
+.title{
+    margin:17px;
+}
+.paraone{
+    color:orangered;
+    margin:30px;
+}
+.paratwo{
+    color: orangered;
+    margin:25px;
+}
+span{
+    color:grey;
+}
+.parathree{
+    color:white;
+    margin:20px;
+}
+.streamimg{
+    margin:12px;
+}
+.stylebutton{
+    margin:12px;
+    padding:7px;
+    height:45px;
+    width:110px;
+    border-radius:3px;
+    background-color:#DB202C;
+    color:white;
+    border:none;
+}
+.stylebutton:hover{
+    box-shadow:0 0 30px black;
+}
